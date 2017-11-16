@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="open">Menu</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="xJoystick">"X : %1$d</string>
+    <string name="yJoystick">"Y : %1$d</string>
+    <string name="angleJoystick">"Angle : %1$d</string>
+    <string name="disJoystick">"Distance : %1$d</string>
+
+    <string name="dirUp">Direction: Up</string>
+    <string name="dirUpRight">Direction: Up Right</string>
+    <string name="dirUpLeft">Direction: Up Left</string>
+
+    <string name="dirLeft">Direction: Left</string>
+    <string name="dirRight">Direction: Right</string>
+    <string name="dirCenter">Direction: Center</string>
+
+    <string name="dirDown">Direction: Down</string>
+    <string name="dirDownRight">Direction: Down Right</string>
+    <string name="dirDownLeft">Direction: Down Left</string>
+
+
+</resources>

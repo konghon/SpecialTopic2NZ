@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- primary colors -->
+    <color name="darkPurple">#3E008B</color>
+    <color name="purple">#5200ba</color>
+    <color name="lesserPurple">#4867C4</color>
+    <color name="darkerBlue">#3E88D1</color>
+    <color name="blue">#34d1e5</color>
+
+    <!-- background -->
+    <color name="bg_grey">#282828</color>
+
+    <!-- text -->
+    <color name="text_white">#F2F2F2</color>
+    <color name="text_grey">#4D4D4D</color>
+    <color name="text_grey_light">#999999</color>
+</resources>

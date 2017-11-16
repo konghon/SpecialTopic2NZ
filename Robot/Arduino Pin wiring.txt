@@ -1,0 +1,26 @@
+Arduino Pin
+0	-									-
+1	-									-
+2	INT 	GY521 (Interrupt pin)		yellow	
+3	RDY 	nRF8001	(Interrupt pin)		green
+4	-
+5	TX 		MotorController				Orange
+6	RX 		MotorController				White
+7	RST 	MotorController				blue
+8	-
+9	RST		nRF8001
+10	REQ		nRF8001 (Chipselect)
+11	MOSI	nRF8001		
+12	MISO	nRF8001
+13	CLOCK	nRF8001
+A0	TRIG	PingSensor					orange
+A1	ECHO	PingSensor					yellow
+A2	-
+A3	-	
+A4	-
+GND
+GND
+GND
+VIN	5Vout	Motor
+SCL			GY521						Green
+SDA			GY521						Blue

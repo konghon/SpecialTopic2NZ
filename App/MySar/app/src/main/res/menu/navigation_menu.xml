@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:menuCategory="system"
+        android:id="@+id/nav_mode">
+        <item android:id="@+id/nav_header"
+            android:title="Controller mode"/>
+        <item android:id="@+id/nav_joystick"
+            android:title="Joystick" />
+        <item android:id="@+id/nav_tilt"
+            android:title="Tilt" />
+        <item android:id="@+id/nav_speech"
+            android:title="Speech" />
+    </group>
+
+    <group android:menuCategory="container"
+        android:id="@+id/connection_status">
+        <item android:id="@+id/nav_connectionstatus"
+        android:title="Connection status" />
+        <item android:id="@+id/nav_ip"
+        android:title="IP" />
+        <item android:id="@+id/nav_baudrate"
+        android:title="baudrate" />
+    </group>
+</menu>
